@@ -1,4 +1,4 @@
-;; A comment plus some more
+;; A comment added using Magit
 
 (ns cjzork.core
   (:gen-class))
