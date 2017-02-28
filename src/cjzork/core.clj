@@ -5,8 +5,6 @@
 (ns cjzork.core
   (:gen-class))
 
-;; Some extra commnets
-
 (use '[clojure.string :only (join split blank?)])
 
 (ns cjzork.items
