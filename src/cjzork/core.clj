@@ -1,4 +1,4 @@
-;; A comment
+;; A comment plus some more
 
 (ns cjzork.core
   (:gen-class))
