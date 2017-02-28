@@ -1,7 +1,11 @@
-;; A comment added using Magit
+;; A comment added using Magit and now lets get detailed
+
+;;Maybe some extra
 
 (ns cjzork.core
   (:gen-class))
+
+;; Some extra commnets
 
 (use '[clojure.string :only (join split blank?)])
 
