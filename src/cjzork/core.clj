@@ -1,3 +1,5 @@
+;; A comment
+
 (ns cjzork.core
   (:gen-class))
 
