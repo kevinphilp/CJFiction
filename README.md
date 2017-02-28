@@ -1,10 +1,14 @@
 # cjzork
 
-FIXME: description
+description
+
+Interactive fiction example using Clojure. 
+
+Inspired by Land of Lisp by Conrad Barksi but not following the book, this is not a Clojure implemenation of Land of Lisp.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/kevinphilp/CJFiction.git
 
 ## Usage
 
