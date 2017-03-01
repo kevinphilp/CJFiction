@@ -1,6 +1,4 @@
-;; A comment added using Magit and now lets get detailed
-
-;;Maybe some extra
+;; A comment added after switching to SSH from HTTPS
 
 (ns cjzork.core
   (:gen-class))
