@@ -1,5 +1,7 @@
 ;; A comment added after switching to SSH from HTTPS
 
+;; A quick etst of seafile
+
 (ns cjzork.core
   (:gen-class))
 

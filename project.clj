@@ -7,6 +7,6 @@
   :main ^:skip-aot cjzork.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}
-             :dev {:plugins [[cider/cider-nrepl "0.11.0-SNAPSHOT"]]}})
+             :dev {:plugins [[cider/cider-nrepl "0.15.0-SNAPSHOT"]]}})
 
   
