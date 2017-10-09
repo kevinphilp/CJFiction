@@ -1,4 +1,4 @@
-;; A comment added after switching to SSH from HTTPS
+;; Updated for Oct 2017
 
 ;; A quick etst of seafile
 
